@@ -7,8 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-
-I am a **Full-Stack Developer** and **AI Systems Builder** from Gujranwala, Pakistan with **11+ years of experience**.
+I am a **Full-Stack Developer** and **AI Systems Builder** from Gujranwala, Pakistan, with **3+ years of professional web development experience** — backed by **11+ years in digital media** (YouTube automation, graphic design, and video editing).
 
 I build websites, web applications, SaaS platforms, and AI-powered tools for businesses worldwide.
 
