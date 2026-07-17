@@ -1,140 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mian%20Adil%20Hussain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20Builder%20%7C%20SaaS%20Creator&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mian%20Adil%20Hussain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20Builder%20%7C%20SEO%20Specialist&descAlignY=55&descSize=18" />
+
+<a href="https://mianadil.site"><img src="https://img.shields.io/badge/Portfolio-mianadil.site-F5A623?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://wa.me/923322588500"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:adilmian2025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
-I am a **Full-Stack Developer** and **AI Systems Builder** from Gujranwala, Pakistan, with **3+ years of professional web development experience** — backed by **11+ years in digital media** (YouTube automation, graphic design, and video editing).
+## About
 
-I build websites, web applications, SaaS platforms, and AI-powered tools for businesses worldwide.
+Full-Stack Developer, AI Systems Builder, and SEO Specialist based in Gujranwala, Pakistan — **3+ years of professional web development**, backed by **11+ years in digital media** (YouTube automation, graphic design, video editing).
 
-- 🚀 Built a YouTube automation system that generated **1M+ views in 6 days** with zero human on screen
-- 🔧 Created **LeadHunter Pro** — a Chrome Extension that scrapes Google Maps leads and exports to Google Sheets automatically
-- 📊 Built a **YouTube Niche Analyzer** that fetches data from 50-250 videos in one click
-- 🎓 Built a complete **LMS** with IP tracking, device limits, and manual SQL architecture
-- 🌍 Currently serving clients in **Dubai and UK**
-- 🤖 Running a **YouTube Automation Academy** training 20+ creators
+I build production websites, AI-powered tools, and SEO systems for clients across Pakistan, the US, UK, and Canada — everything from a single landing page to a full local-first Chrome extension.
 
----
+- Built and shipped a 564+ page SEO-driven portfolio site (`mianadil.site`) — vanilla stack, Cloudflare Workers + D1, Vercel
+- Built **ScrapeForge**, a local-first Chrome extension for visual web scraping — no cloud, no external calls, everything stored in the browser
+- Built a full **SEO audit skill/system** (ESIS) — 100+ finding library, evidence-based scoring, delivers tiered client reports
+- Ran a YouTube automation pipeline that hit **1M+ views in 6 days** with zero human on screen
+- Trained 20+ creators through a YouTube Automation Academy
 
-## 🌐 Socials
+<br>
+
+## Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **ScrapeForge** | Local-first Chrome extension — visual point-and-click scraping, multi-page navigation, durable IndexedDB storage, reusable recipes, CSV/JSON export | JavaScript, Chrome Extension APIs (Manifest V3), IndexedDB |
+| **mianadil.site** | 564+ page SEO-optimized portfolio — D1-driven blog, 297 programmatic location pages, custom Cloudflare Workers | HTML/CSS/JS, Cloudflare Workers, D1, Vercel |
+| **ESIS — SEO Audit Skill** | Client-ready SEO audit system — 100+ finding library, evidence-based confidence scoring, tiered $99/$299/$499 report delivery | Python, xhtml2pdf, DataForSEO API |
+| **LeadHunter Pro** | Chrome extension for scraping Google Maps business leads directly into Google Sheets | JavaScript, Chrome APIs, Google Sheets API |
+| **YouTube Niche Analyzer** | Pulls data from 50–250 YouTube videos in one click to surface winning content niches | React, Node.js, YouTube API |
+| **LMS Platform** | Full learning management system with IP tracking, device limits, and hand-built SQL architecture | PHP, MySQL, JavaScript |
+| **YouTube Automation System** | AI-driven faceless content pipeline — 1M+ views in 6 days | AI APIs, Prompt Engineering, Automation |
+
+> Several projects are in private repositories — reach out for a live demo or access.
+
+<br>
+
+## Tech Stack
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mianadil.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mianadilhussain)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mianadilofficial)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mianadil4949)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mianadiloficial)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923322588500)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mianadiloficial@gmail.com)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔍 **LeadHunter Pro** | Chrome Extension — scrapes Google Maps leads automatically, exports to Google Sheets. Generated 620+ leads for Dubai businesses. | JavaScript, Chrome API, Google Sheets API |
-| 📊 **YouTube Niche Analyzer** | Fetches data from 50-250 YouTube videos in one click. Finds winning niches fast. | React, Node.js, YouTube API |
-| 🎓 **LMS Platform** | Complete Learning Management System with IP tracking, device limits, manual SQL architecture | PHP, MySQL, JavaScript |
-| 🤖 **Business Lead Finder SaaS** | Automated lead generation platform for local businesses | React, Node.js, Firebase |
-| 🎬 **YouTube Automation System** | AI-powered faceless YouTube system — 1M+ views in 6 days, zero human on screen | AI APIs, Prompt Engineering, Automation |
-
-> 🔒 Several projects are in **private repositories** — contact me for access or a live demo.
-
----
-
-## 💻 Tech Stack
 
 **Frontend**
+<br>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Backend & Infra**
+<br>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
 
-**Backend**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Database & Cloud**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+**Data & Cloud**
+<br>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" />
+<img src="https://img.shields.io/badge/cloudflare%20d1-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 
 **AI & Automation**
-
-![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+<br>
+<img src="https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=flat-square&logo=openai&logoColor=white" />
 
 **Tools & Design**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=mianadilofficial&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=mianadilofficial&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mianadilofficial&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" />
 
 </div>
 
----
+<br>
 
-## 🏆 GitHub Trophies
+## GitHub Stats
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=mianadilofficial&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-readme-stats.vercel.app/api?username=mianadilofficial&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianadilofficial&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=mianadilofficial&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+<br>
 
-## 💼 Services I Offer
+## Services
 
-- ✅ Business Websites & Landing Pages
-- ✅ SaaS Platform Development
-- ✅ AI-Powered Web Applications
-- ✅ Chrome Extensions
-- ✅ YouTube Automation Systems
-- ✅ Lead Generation Tools
-- ✅ Custom LMS Platforms
+- Business websites & landing pages
+- SaaS platform development
+- AI-powered web applications
+- Chrome extensions
+- SEO audits & technical SEO fixes
+- YouTube automation systems
+- Custom LMS platforms
 
 **Available for remote work worldwide.**
 
-📩 Reach me: [mianadiloficial@gmail.com](mailto:mianadiloficial@gmail.com) | [WhatsApp](https://wa.me/923322588500) | [Portfolio](https://mianadil.vercel.app)
-
----
-
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=mianadilofficial&icon=6&color=6)](https://visitcount.itsvg.in)
+<a href="mailto:adilmian2025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/923322588500"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://mianadil.site"><img src="https://img.shields.io/badge/Portfolio-F5A623?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
 </div>
