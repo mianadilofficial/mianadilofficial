@@ -1,20 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a1a1a,100:0A0A0A&height=220&section=header&text=Mian%20Adil%20Hussain&fontSize=48&fontColor=F5A623&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20Builder%20%7C%20SEO%20Specialist&descAlignY=52&descSize=17&descColor=ffffff" />
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,25:1a1508,50:2b2107,75:1a1508,100:0A0A0A&height=220&section=header&text=Mian%20Adil%20Hussain&fontSize=48&fontColor=F5A623&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20Builder%20%7C%20SEO%20Specialist&descAlignY=52&descSize=17&descColor=ffffff" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+systems;564%2B+page+SEO+portfolios+shipped;Local-first+Chrome+extensions;Available+for+remote+work+worldwide" />
-
-<br><br>
 
 <a href="https://mianadil.site"><img src="https://img.shields.io/badge/🌐_Portfolio-mianadil.site-F5A623?style=for-the-badge&logoColor=black" /></a>
 <a href="https://wa.me/923322588500"><img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logoColor=white" /></a>
 <a href="mailto:adilmian2025@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" /></a>
 
 </div>
-
-<br>
 
 ## 👋 About
 
@@ -27,8 +21,6 @@ I build production websites, AI-powered tools, and SEO systems for clients acros
 - 📈 Built a full **SEO audit skill/system** (ESIS) — 100+ finding library, evidence-based scoring, delivers tiered client reports
 - 🎬 Ran a YouTube automation pipeline that hit **1M+ views in 6 days** with zero human on screen
 - 🎓 Trained 20+ creators through a YouTube Automation Academy
-
-<br>
 
 ## 🚀 Featured Projects
 
@@ -44,14 +36,11 @@ I build production websites, AI-powered tools, and SEO systems for clients acros
 
 > 🔒 Several projects are in private repositories — reach out for a live demo or access.
 
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Frontend**
-<br>
+**Frontend**<br>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
@@ -59,8 +48,7 @@ I build production websites, AI-powered tools, and SEO systems for clients acros
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
 
-**Backend & Infra**
-<br>
+**Backend & Infra**<br>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
@@ -68,28 +56,23 @@ I build production websites, AI-powered tools, and SEO systems for clients acros
 <img src="https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
 
-**Data & Cloud**
-<br>
+**Data & Cloud**<br>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" />
 <img src="https://img.shields.io/badge/cloudflare%20d1-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 
-**AI & Automation**
-<br>
+**AI & Automation**<br>
 <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=flat-square&logo=openai&logoColor=white" />
 
-**Tools & Design**
-<br>
+**Tools & Design**<br>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" />
 
 </div>
-
-<br>
 
 ## 📊 GitHub Stats
 
@@ -98,13 +81,9 @@ I build production websites, AI-powered tools, and SEO systems for clients acros
 <img src="https://github-readme-stats.vercel.app/api?username=mianadilofficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0A0A&title_color=F5A623&icon_color=F5A623&text_color=ffffff" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianadilofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=F5A623&text_color=ffffff" height="165" />
 
-<br>
-
 <img src="https://streak-stats.demolab.com/?user=mianadilofficial&theme=tokyonight&hide_border=true&background=0A0A0A&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" />
 
 </div>
-
-<br>
 
 ## 💼 Services
 
@@ -120,14 +99,10 @@ I build production websites, AI-powered tools, and SEO systems for clients acros
 
 <div align="center">
 
-<br>
-
 <a href="mailto:adilmian2025@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" /></a>
 <a href="https://wa.me/923322588500"><img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logoColor=white" /></a>
 <a href="https://mianadil.site"><img src="https://img.shields.io/badge/🌐_Portfolio-F5A623?style=for-the-badge&logoColor=black" /></a>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a1a1a,100:0A0A0A&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,25:1a1508,50:2b2107,75:1a1508,100:0A0A0A&height=100&section=footer" />
 
 </div>
