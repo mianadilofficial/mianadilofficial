@@ -101,8 +101,8 @@ I build production websites, AI-powered tools, and SEO systems for clients acros
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mianadilofficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0A0A&title_color=F5A623&icon_color=F5A623&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianadilofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=F5A623&text_color=ffffff" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mianadilofficial&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mianadilofficial&theme=tokyonight" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=mianadilofficial&theme=tokyonight&hide_border=true&background=0A0A0A&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" />
 
