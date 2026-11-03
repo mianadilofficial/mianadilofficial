@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,25:1a1508,50:2b2107,75:1a1508,100:0A0A0A&height=220&section=header&text=Mian%20Adil%20Hussain&fontSize=48&fontColor=F5A623&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20Builder%20%7C%20SEO%20Specialist&descAlignY=52&descSize=17&descColor=ffffff" />
+<img src="https://raw.githubusercontent.com/mianadilofficial/mianadilofficial/main/assets/code-banner.svg" width="100%" alt="Mian Adil Hussain — Full-Stack Developer, AI Systems Builder, SEO Specialist (code editor profile banner)" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+systems;Open-source+AI+agent+systems;564%2B+page+SEO+portfolios+shipped;Local-first+Chrome+extensions;Available+for+remote+work+worldwide" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=%24%20git%20push%20origin%20future;building%20agents%20that%20learn;RAG%20%C2%B7%20SEO%20%C2%B7%20Full-Stack;hireable%20%3D%20true%3B%20%2F%2F%20worldwide" />
 
 <a href="https://portfolio.mianadil.site"><img src="https://img.shields.io/badge/🌐_Portfolio-portfolio.mianadil.site-F5A623?style=for-the-badge&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/mianadilhussain/"><img src="https://img.shields.io/badge/LinkedIn-Mian_Adil_Hussain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,6 +11,17 @@
 <a href="mailto:adilmian2025@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" /></a>
 
 </div>
+
+
+### <code>$ whoami</code>
+
+```bash
+$ npx mian-adil --info
+> role:        Full-Stack Developer · AI Systems Builder · SEO Specialist
+> currently:   Social Agent Suite — open source, building in public
+> proof:       2 AI certifications at 100% · first organic booking in 22 days
+> status:      available for remote work worldwide
+```
 
 ## 👋 About
 

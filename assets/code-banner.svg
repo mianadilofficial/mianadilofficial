@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="408" viewBox="0 0 1200 408">
+<rect x="1" y="1" width="1198" height="406" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+<path d="M1 13 A12 12 0 0 1 13 1 L1187 1 A12 12 0 0 1 1199 13 L1199 45 L1 45 Z" fill="#161B22"/>
+<circle cx="28" cy="23" r="7" fill="#FF5F56"/>
+<circle cx="56" cy="23" r="7" fill="#FFBD2E"/>
+<circle cx="84" cy="23" r="7" fill="#27C93F"/>
+<rect x="112" y="9" width="196" height="36" rx="8" fill="#0D1117"/>
+<rect x="128" y="20" width="13" height="13" rx="2" fill="#3178C6"/>
+<text x="150" y="32" font-family="Consolas, monospace" font-size="14" fill="#E6EDF3">mian-adil.ts</text>
+<rect x="316" y="9" width="216" height="36" rx="8" fill="#10141A"/>
+<text x="332" y="32" font-family="Consolas, monospace" font-size="14" fill="#8B949E">social-agent-suite.md</text>
+<text x="1150" y="32" font-family="Consolas, monospace" font-size="16" fill="#8B949E" text-anchor="middle">—</text>
+<text x="46" y="86" font-family="Consolas, monospace" font-size="15" fill="#484F58" text-anchor="middle">1</text>
+<text x="84" y="86" font-family="'Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="19"><tspan fill="#6A9955" xml:space="preserve">// hello world, I am</tspan></text>
+<text x="46" y="116" font-family="Consolas, monospace" font-size="15" fill="#484F58" text-anchor="middle">2</text>
+<text x="84" y="116" font-family="'Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="19"><tspan fill="#C586C0" xml:space="preserve">const </tspan><tspan fill="#9CDCFE" xml:space="preserve">mianAdil</tspan><tspan fill="#D4D4D4" xml:space="preserve"> = {</tspan></text>
+<text x="46" y="146" font-family="Consolas, monospace" font-size="15" fill="#484F58" text-anchor="middle">3</text>
+<text x="84" y="146" font-family="'Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="19"><tspan fill="#9CDCFE" xml:space="preserve">  name</tspan><tspan fill="#D4D4D4" xml:space="preserve">: </tspan><tspan fill="#CE9178" xml:space="preserve">"Mian Adil Hussain"</tspan><tspan fill="#D4D4D4" xml:space="preserve">,</tspan></text>
+<text x="46" y="176" font-family="Consolas, monospace" font-size="15" fill="#484F58" text-anchor="middle">4</text>
+<text x="84" y="176" font-family="'Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="19"><tspan fill="#9CDCFE" xml:space="preserve">  role</tspan><tspan fill="#D4D4D4" xml:space="preserve">: [</tspan><tspan fill="#CE9178" xml:space="preserve">"Full-Stack Developer"</tspan><tspan fill="#D4D4D4" xml:space="preserve">, </tspan><tspan fill="#CE9178" xml:space="preserve">"AI Systems Builder"</tspan><tspan fill="#D4D4D4" xml:space="preserve">, </tspan><tspan fill="#CE9178" xml:space="preserve">"SEO Specialist"</tspan><tspan fill="#D4D4D4" xml:space="preserve">],</tspan></text>
+<text x="46" y="206" font-family="Consolas, monospace" font-size="15" fill="#484F58" text-anchor="middle">5</text>
+<text x="84" y="206" font-family="'Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="19"><tspan fill="#9CDCFE" xml:space="preserve">  stack</tspan><tspan fill="#D4D4D4" xml:space="preserve">: [</tspan><tspan fill="#CE9178" xml:space="preserve">"TypeScript"</tspan><tspan fill="#D4D4D4" xml:space="preserve">, </tspan><tspan fill="#CE9178" xml:space="preserve">"Next.js"</tspan><tspan fill="#D4D4D4" xml:space="preserve">, </tspan><tspan fill="#CE9178" xml:space="preserve">"Python"</tspan><tspan fill="#D4D4D4" xml:space="preserve">, </tspan><tspan fill="#CE9178" xml:space="preserve">"Supabase"</tspan><tspan fill="#D4D4D4" xml:space="preserve">, </tspan><tspan fill="#CE9178" xml:space="preserve">"Cloudflare"</tspan><tspan fill="#D4D4D4" xml:space="preserve">],</tspan></text>
+<text x="46" y="236" font-family="Consolas, monospace" font-size="15" fill="#484F58" text-anchor="middle">6</text>
+<text x="84" y="236" font-family="'Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="19"><tspan fill="#9CDCFE" xml:space="preserve">  currentlyBuilding</tspan><tspan fill="#D4D4D4" xml:space="preserve">: </tspan><tspan fill="#CE9178" xml:space="preserve">"Social Agent Suite"</tspan><tspan fill="#D4D4D4" xml:space="preserve">,</tspan><tspan fill="#6A9955" xml:space="preserve">   // AI agents that learn while they scroll</tspan></text>
+<text x="46" y="266" font-family="Consolas, monospace" font-size="15" fill="#484F58" text-anchor="middle">7</text>
+<text x="84" y="266" font-family="'Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="19"><tspan fill="#9CDCFE" xml:space="preserve">  focus</tspan><tspan fill="#D4D4D4" xml:space="preserve">: [</tspan><tspan fill="#CE9178" xml:space="preserve">"AI Agents"</tspan><tspan fill="#D4D4D4" xml:space="preserve">, </tspan><tspan fill="#CE9178" xml:space="preserve">"RAG Systems"</tspan><tspan fill="#D4D4D4" xml:space="preserve">, </tspan><tspan fill="#CE9178" xml:space="preserve">"Technical SEO"</tspan><tspan fill="#D4D4D4" xml:space="preserve">],</tspan></text>
+<text x="46" y="296" font-family="Consolas, monospace" font-size="15" fill="#484F58" text-anchor="middle">8</text>
+<text x="84" y="296" font-family="'Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="19"><tspan fill="#9CDCFE" xml:space="preserve">  hireable</tspan><tspan fill="#D4D4D4" xml:space="preserve">: </tspan><tspan fill="#569CD6" xml:space="preserve">true</tspan><tspan fill="#D4D4D4" xml:space="preserve">,</tspan></text>
+<text x="46" y="326" font-family="Consolas, monospace" font-size="15" fill="#484F58" text-anchor="middle">9</text>
+<text x="84" y="326" font-family="'Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="19"><tspan fill="#D4D4D4" xml:space="preserve">};</tspan></text>
+<text x="46" y="356" font-family="Consolas, monospace" font-size="15" fill="#484F58" text-anchor="middle">10</text>
+<text x="84" y="356" font-family="'Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="19"><tspan fill="#C586C0" xml:space="preserve">export default </tspan><tspan fill="#9CDCFE" xml:space="preserve">mianAdil</tspan><tspan fill="#D4D4D4" xml:space="preserve">;</tspan></text>
+<rect x="364" y="339" width="11" height="21" fill="#F5A623"/>
+<path d="M1 377 L1199 377 L1199 395 A12 12 0 0 1 1187 407 L13 407 A12 12 0 0 1 1 395 Z" fill="#007ACC"/>
+<text x="20" y="398" font-family="Consolas, monospace" font-size="13.5" fill="#FFFFFF">main  ·  TypeScript  ·  UTF-8  ·  Prettier: ON  ·  AI Agents: LEARNING</text>
+<text x="1180" y="398" font-family="Consolas, monospace" font-size="13.5" fill="#FFFFFF" text-anchor="end">Ln 10, Col 26  ·  hireable: true</text>
+</svg>
