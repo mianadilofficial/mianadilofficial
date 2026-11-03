@@ -39,15 +39,18 @@ I build production websites, AI-powered tools, and SEO systems for clients acros
 
 ## 🏆 Certifications & Training
 
-| Credential | Issuer | Result |
+| Credential | Issuer | Issued |
 |---|---|---|
-| 🎓 **Certification in Prompt Engineering** (Foundation of AI & Prompt Engineering) | Beyond Tahir Academy | ✅ Final exam **100% — first attempt** · Oct 2026 · ID: BTA-2026-E73318 |
-| 🧠 **RAG Engineering: Build AI That Knows Your Data** | Beyond Tahir Academy | ✅ Final exam **100% — first attempt** · Oct 2026 · ID: BTA-2026-D3BCA4 |
-| 📘 **McKinsey Forward Program** | McKinsey & Company | 🔄 In progress — 2026 cohort |
-| 🛠️ **No Code: Build Anything Without Coding** | Beyond Tahir Academy | 🔄 In progress |
-| 💡 **#AISeekho 2026 Hackathon** | — | Participant |
+| 🧠 **RAG Engineering: Build AI That Knows Your Data** | Beyond Tahir Academy | Oct 2026 · 100% first attempt · ID: BTA-2026-D3BCA4 |
+| 🎓 **Certification in Prompt Engineering** (BTA-CPE) | Beyond Tahir Academy | Oct 2026 · 100% first attempt · ID: BTA-2026-E73318 |
+| ✨ **Google Prompting Essentials** | Cursa | Sep 2026 · ID: dfed7d4501bf41ccc7162ebbba828de0 |
+| 🤖 **AI Agents & Automation for Beginners** | Beyond Tahir Academy | Aug 2026 · ID: BTA-2026-DC6550 |
+| 🎨 **Using AI in the UX Design Process** | LinkedIn | Aug 2026 |
+| 💡 **One Million Prompters** — Certificate of Completion | Dubai Future Foundation | Jul 2026 |
+| ✍️ **AI for Content Creation** | Beyond Tahir Academy | Apr 2026 · ID: BTA-2026-F1377A |
+| 🌱 **Intro to AI for Humans** | Beyond Tahir Academy | Apr 2026 · ID: BTA-2026-81894B |
 
-> 📜 Full list of licenses & certifications on my [LinkedIn profile](https://www.linkedin.com/in/mianadilhussain/).
+> 📜 Every credential above is verifiable on my [LinkedIn profile](https://www.linkedin.com/in/mianadilhussain/) · Also: **#AISeekho 2026 Hackathon** — Participant
 
 ## 🚀 Featured Projects
 
